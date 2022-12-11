@@ -1,4 +1,4 @@
-[![MasterHead]([https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg]([https://lh3.googleusercontent.com/nzmIcQ3a7ubq9jcjANWTIB90FgJCSWGy5fJ2gLJFVyl2Y_TG1E4Mf4Yoa0opFF9QCb5CvBTe2Az6hsAzayAeqg=s1000](https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Ethical-Hacking.jpg)))](https://linktr.ee/rokit12)
+[![MasterHead](https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Ethical-Hacking.jpg)](https://linktr.ee/rokit12)
 <h1 align="center">Hi 👋, I'm Robinson Muiru</h1>
 <h3 align="center">A Dedicated, Committed software engineer and innovation researcher</h3>
 <img align="right" alt="hacking" width="400" src="https://giffiles.alphacoders.com/119/119825.gif">
